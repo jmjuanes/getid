@@ -112,7 +112,7 @@ function getRand(min, max)
   //Converts to integer
   r = Math.floor(r) + min;
 
-  //Return the new number
+  //Return the new integer
   return r;
 }
 
